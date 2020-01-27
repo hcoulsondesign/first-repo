@@ -1,1 +1,3 @@
- Hello! I'm a first file! A test file
+ Hello! I'm a first file! A test file.
+
+ This is the second line. An updated change.
